@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 #!/usr/bin/env python
 #
 # Enable cython support for slightly faster eval scripts:
